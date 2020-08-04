@@ -9,8 +9,8 @@ buka sistem anda seperti berikut C:\Windows\Fonts lalu kopikan hasil extrak file
 restart komputer anda dan coba buka microsoft word lalu tekan ctrl+shift+p pilih jenis font "lampung" atau sesuaikan dengan aplikasi/app apa yang sedang anda jalankan pilih font jenis lampung
 
 
-=================================================
- 
+
+ https://github.com/johansantri/font_lampung/blob/master/adn_Hadeha%20Bold/preview.jpg
 
 
 
